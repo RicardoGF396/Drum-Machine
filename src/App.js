@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import fcc from "../src/fcc.png";
 import "./App.css";
 import { useEffect, useState } from "react";
